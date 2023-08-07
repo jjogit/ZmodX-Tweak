@@ -1,4 +1,4 @@
-ZmodX Tweaks
+ZmodX Tweak
 Version : 1 Final Universal
 
 Command Install With Termux :

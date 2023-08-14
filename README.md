@@ -1,6 +1,4 @@
-## ZmodX Tweak No Root
-
-## What's This? <br />
+## ZmodXTweak<br />
 ZmodX Tweak serves to improve  <br />performance and optimize device  <br />performance. <br />
 ## Updates
 - ZmodX Tweak Update Version 3.0  Stable.

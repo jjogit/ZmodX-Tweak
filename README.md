@@ -8,7 +8,7 @@ ZmodX Tweak serves to improve performance and optimize device performance.
 
 ## Installation steps.
 - pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage
-- cd /sdcard/ZmodXv2.0 && sh rish
+- cd /sdcard/ZmodXv3.0 && sh rish
 - ls
 - sh setup.sh
 - cd /data/local/tmp

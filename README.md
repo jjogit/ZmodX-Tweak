@@ -1,32 +1,28 @@
 <a name="readme-top"></a>
-## ZmodX-Tweak
-**Enhance the Android experience with a combination of tweaks.**
+## ZmodX-Tweak<br />
+Enhance the Android experience with a combination of tweaks.<br />
 
-## Updates
-**- ZmodX Tweak Update Version 3.0  Stable.**
-## Instalation
-```pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage```
+## Updates<br />
+- ZmodX Tweak Update Version 3.0  Stable.<br />
 
-```cd /sdcard/ZmodXv3.0 && sh rish```
+## Instalation<br />
+```pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage```<br />
 
-```sh setup.sh```
+```cd /sdcard/ZmodXv3.0 && sh rish```<br />
 
-```cd /data/local/tmp```
+```sh setup.sh```<br />
 
-```./ZMODX```
-## Important
-**1.Please read the readme.txt to understand how to install tweak and uninstall tweak.**
-**2.Tweak Only Works in Termux & Shizuku.**
-**3.The Tweak is universal so it supports all devices & can be combined with other modules.**
-### More Info
-**Developer https://t.me/jjogit**
-**Telegram https://t.me/ZmodX**
+```cd /data/local/tmp```<br />
 
-**Shizuku**
+```./ZMODX```<br />
 
+## Important <br />
 
-**Termux**
+- Please read the readme.txt to understand how to install tweak and uninstall tweak.<br />
+- Tweak Only Works in Termux & Shizuku.<br />
+- The Tweak is universal so it supports all devices & can be combined with other modules.<br />
 
-
-**Brevent**
-
+	
+## More Info
+Developer https://t.me/jjogit <br />
+Telegram https://t.me/ZmodX<br />

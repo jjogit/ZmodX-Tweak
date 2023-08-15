@@ -19,8 +19,8 @@
 **2.Tweak Only Works in Termux & Shizuku.**
 **3.The Tweak is universal so it supports all devices & can be combined with other modules.**
 ### More Info
-**• Developer https://t.me/jjogit**
-**• Telegram https://t.me/ZmodX**
+**Developer https://t.me/jjogit**
+**Telegram https://t.me/ZmodX**
 
 **Shizuku**
 

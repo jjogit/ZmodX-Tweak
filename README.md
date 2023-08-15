@@ -7,25 +7,23 @@ Enhance the Android experience with a combination of tweaks.<br />
 
 ## Instalation<br />
 
-Update Termux  : 
+**Update Termux  :**
 ```
 pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage
 ```
-Shizuku Permission : 
+**Shizuku Permission :**
 ```
 cd /sdcard/ZmodXv3.0 && sh rish
 ```
-
-Setup Tweak : 
+**Setup Tweak :**
 ```
 sh setup.sh
 ```
-Copy Command : 
+**Copy Command :**
 ```
 cd /data/local/tmp
 ```
-
-Open Menu : 
+**Open Menu :**
 ```
 ./ZMODX
 ```

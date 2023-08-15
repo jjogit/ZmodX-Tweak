@@ -6,15 +6,29 @@ Enhance the Android experience with a combination of tweaks.<br />
 - ZmodX Tweak Update Version 3.0  Stable.<br />
 
 ## Instalation<br />
-```pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage```<br />
 
-```cd /sdcard/ZmodXv3.0 && sh rish```<br />
+Update Termux  : 
+```
+pkg upgrade -y && pkg install bash -y && pkg install shc -y && pkg install binutils -y && termux-setup-storage
+```
+Shizuku Permission : 
+```
+cd /sdcard/ZmodXv3.0 && sh rish
+```
 
-```sh setup.sh```<br />
+Setup Tweak : 
+```
+sh setup.sh
+```
+Copy Command : 
+```
+cd /data/local/tmp
+```
 
-```cd /data/local/tmp```<br />
-
-```./ZMODX```<br />
+Open Menu : 
+```
+./ZMODX
+```
 
 ## Important <br />
 

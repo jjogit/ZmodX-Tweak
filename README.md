@@ -4,7 +4,7 @@ Enhance the Android experience with a combination of tweaks.<br />
 ZmodX Source⚡ @ZmodX | Telegram 
 
 ## Updates<br />
-- ZTEnchancer Update Version 1.0  Stable.<br />
+- ZmodX Tweak v6.0  Stable.<br />
 
 ## Important <br />
 - Please read the readme.txt to understand how to install tweak and uninstall tweak.<br />

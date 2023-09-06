@@ -4,7 +4,7 @@ Enhance the Android experience with a combination of tweaks.<br />
 ZmodX Source⚡ @ZmodX | Telegram 
 
 ## Updates<br />
-- ZmodX Tweak v6.0  Stable.<br />
+- NREZmodX Tweak v7.0  Stable.<br />
 
 ## Important <br />
 - Please read the readme.txt to understand how to install tweak and uninstall tweak.<br />
